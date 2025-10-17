@@ -1,33 +1,17 @@
-# Vijay Ananthula
-**AWS DevOps Engineer | Cloud Enthusiast | Fresher**  
-📍 Hyderabad, India | 📧 muralivijay7ananthula@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vijayananthula) | [GitHub](https://github.com/VijayAnanthula)
+<h1 align="center">Hi 👋, I'm Vijay Ananthula</h1>
+<h3 align="center">I am a passionate **AWS DevOps Engineer (Fresher)** eager to design, automate, and manage scalable cloud infrastructures. I focus on **CI/CD pipelines**, **containerization**, **infrastructure as code**, and **automation** to improve deployment speed and reliability. I love learning by building real-world solutions that demonstrate practical DevOps skills.</h3>
 
----
+- 🔭 I’m currently working on [ci-cd project](https://github.com/vijaycodes3/VijayAnanthula-aws-ci-cd-pipeline)
 
-## About Me
-I am a passionate **AWS DevOps Engineer (Fresher)** eager to design, automate, and manage scalable cloud infrastructures.  
-I focus on **CI/CD pipelines**, **containerization**, **infrastructure as code**, and **automation** to improve deployment speed and reliability.  
-I love learning by building real-world solutions that demonstrate practical DevOps skills.
+- 🌱 I’m currently learning **Terraform,Kubernetes,Grafana**
 
----
+- 📫 How to reach me **muralivijay7@gmail.com**
 
-## Technical Skills
-- **Cloud & Infrastructure:** AWS (EC2, S3, RDS, Lambda, CloudWatch, VPC, IAM)  
-- **Containers & Orchestration:** Docker, Kubernetes  
-- **Automation & IaC:** Ansible, Terraform  
-- **CI/CD Tools:** Jenkins, GitHub Actions  
-- **Version Control & Scripting:** Git, GitHub, Linux, Bash, Python  
-- **Monitoring & Logging:** Prometheus, Grafana  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijayananthula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijayananthula/" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Currently Learning
-- Advanced Kubernetes (Helm, Secrets, Operators)  
-- Terraform Modules & Workspaces  
-- AWS Cloud Security & IAM Best Practices  
-
----
-
-## Contact
-📧 E
