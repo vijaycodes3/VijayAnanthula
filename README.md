@@ -29,7 +29,7 @@ I enjoy learning by doing — from deploying full-stack apps on AWS to building 
 ### 1️⃣ Automated CI/CD Pipeline  
 Developed a **CI/CD pipeline** using **Jenkins**, **Docker**, and **Kubernetes** to deploy a Node.js web app on **AWS EC2**.  
 This project demonstrates continuous integration and delivery automation for a scalable microservice-based setup.  
-**Repo:** [aws-ci-cd-pipeline](https://github.com/VijayAnanthula/aws-ci-cd-pipeline)
+**Repo:** [aws-ci-cd-pipeline](https://github.com/aws-ci-cd-pipeline)
 
 ---
 
