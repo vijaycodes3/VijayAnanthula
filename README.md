@@ -46,14 +46,6 @@ I enjoy solving real-world problems and continuously improving my skills in DevO
 
 ---
 
-## 📊 GitHub Stats
-
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VijayAnanthula&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAnanthula&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact Me
 📧 Email: muralivijay7ananthula@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/vijayananthula](https://www.linkedin.com/in/vijayananthula)  
