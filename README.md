@@ -91,5 +91,19 @@
 ---
 
 ## 🌟 Let's Connect
+### 🚀 Projects
+
+### 1️⃣ Automated CI/CD Pipeline
+CI/CD pipeline using Jenkins, Docker, and Kubernetes to deploy a Node.js web app on AWS.  
+**Repo:** [aws-ci-cd-pipeline](https://github.com/VijayAnanthula/aws-ci-cd-pipeline)
+
+### 2️⃣ AWS Three-Tier Architecture
+Deployed a scalable three-tier infrastructure (Web, App, DB) using Terraform on AWS.  
+**Repo:** [aws-three-tier-architecture](https://github.com/VijayAnanthula/aws-three-tier-architecture)
+
+### 3️⃣ AWS Snapshot Cleanup Lambda
+Serverless function built with Python (Boto3) to automatically delete unused EBS snapshots.  
+**Repo:** [aws-snapshot-cleanup](https://github.com/VijayAnanthula/aws-snapshot-cleanup)
+
 I am **actively looking for DevOps opportunities**.  
 Feel free to reach out via **LinkedIn** or **email**.
